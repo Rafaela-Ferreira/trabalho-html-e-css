@@ -5,6 +5,7 @@
 }
 .navbar a{
     color: #BA68C8;
+    text-decoration: none;
 }
 .container h1, .container h2{
     color: #212529;
