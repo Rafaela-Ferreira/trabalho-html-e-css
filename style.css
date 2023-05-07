@@ -1,0 +1,19 @@
+
+.navbar{
+    background-color:#212529;
+    color:white;
+}
+.navbar a{
+    color: #BA68C8;
+}
+.container h1, .container h2{
+    color: #212529;
+    margin-top: 20px;
+}
+.CADRASTRO{
+    width: 70%;
+}
+.carousel-inner{
+    background-color: #BA68C8;
+    height: 600px;
+}
