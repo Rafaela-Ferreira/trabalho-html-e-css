@@ -4,7 +4,7 @@
     color:white;
 }
 .navbar a{
-    color: #BA68C8;
+    color: #f8d350;
     text-decoration: none;
 }
 .container h1, .container h2{
@@ -15,6 +15,58 @@
     width: 70%;
 }
 .carousel-inner{
-    background-color: #BA68C8;
+    background-color: #f8d350;
     height: 600px;
+}
+.bodyFont{
+    font-family: Sigmar;
+}
+#background_login{
+    background-color:#f8d350;
+}
+#login{
+    color: #212529;
+    font-size: 25px;
+    font-family:Sigmar;
+    
+}
+#login h2{
+    color: white;
+    padding: 40px;
+    font-size: 60px;
+}
+#login a{
+    color: rgb(73, 73, 177);
+}
+
+#login p{
+    color: #212529;
+    font-size: 25px;
+}
+#backgroudIngresso{
+    background-color: #f8d350;
+}
+#backgroudIngresso img{
+    width: 70%;
+    padding: 20px;
+}
+.margem h3,.margem h4{
+    margin-top: 20px;
+    font-size: 25px;
+}
+.tabelaSessão{
+    background-color: #212529;
+    color: white;
+    font-size: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 40px;
+}
+.tabelaSessão td{
+    padding: 8px;
+}
+.tabela table{
+    width: 50%;
+}
+.CADRASTRO{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
